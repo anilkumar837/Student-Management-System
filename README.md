@@ -1,1 +1,1 @@
-# Student-Management-System
+# movie-ticket-booking
